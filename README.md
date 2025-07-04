@@ -1,5 +1,3 @@
-# devops-pathway
-
 ## My DevOps Pathway
 
 This repository is a personal log of my journey to becoming a DevOps engineer.
