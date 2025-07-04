@@ -1,13 +1,13 @@
 # devops-pathway
-# 🚀 DevOps Pathway – Agustín
+# My DevOps Pathway
 
 Welcome to my DevOps learning journey.
 
-## 📆 Weekly Logs
+## Weekly Logs
 - [Week 1 – Linux Basics](logs/week1-linux.md)
 - [Week 2 – AWS Essentials](logs/week2-aws.md)
 
-## 🛠️ Projects
+## Projects
 - [CI/CD Pipeline with GitHub Actions](projects/cicd-pipeline.md)
 - [Terraform EC2 Deployment](projects/terraform-ec2.md)
 
